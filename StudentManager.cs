@@ -2,7 +2,7 @@
 {
     public class StudentManager
     {
-        private List<Student> students;
+        public List<Student> students;
 
         public StudentManager()
         {
